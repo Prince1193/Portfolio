@@ -1,7 +1,7 @@
 # Data Scientist
 
-##Education
+## Education
 BCA mar augusthinose college
 
-###projects
+### projects
 banking sustem in python
