@@ -1,7 +1,19 @@
 # Data Scientist
 
-## Education
+### Education
 BCA mar augusthinose college
 
 ### projects
-banking sustem in python
+-Banking system in python using OOP
+
+###Skills
+-C
+-C++
+-JAVA
+-Python
+-LINUX
+
+###Interests
+-Cricket
+-Pencil Micro Art
+-Coding
