@@ -6,14 +6,14 @@ BCA mar augusthinose college
 ### projects
 -Banking system in python using OOP
 
-###Skills
+### Skills
 -C
 -C++
 -JAVA
 -Python
 -LINUX
 
-###Interests
+### Interests
 -Cricket
 -Pencil Micro Art
 -Coding
