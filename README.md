@@ -1,9 +1,10 @@
 # Data Scientist
 
 ### Education
-BCA mar augusthinose college
+-BCA MAR Augusthinose College
+2021-present
 
-### projects
+### Projects
 -Banking system in python using OOP
 
 ### Skills
